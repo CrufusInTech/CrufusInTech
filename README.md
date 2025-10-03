@@ -4,7 +4,9 @@
 
 
 <div align="center">
+  
 <strong>Aspiring Full-Stack Engineer | Building projects | Always Learning 🚀</strong>
+
 </div>
 
 ---
@@ -40,8 +42,7 @@
 <div align="center">
   
 **Current Focus:**
-- **Deblug** – Ongoing improvements and debugging.
-- **My Blog Site** – Working on features and responsiveness.
+- **My Blog Site ~DeBlug** – Working on features and responsiveness.
   
 </div>
 
