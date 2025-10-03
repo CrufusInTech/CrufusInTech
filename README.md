@@ -70,8 +70,6 @@
 ---
 
 ## 🌟 Let’s Connect
-<div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrufusInTech)
 [![X(formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/__Crufus)
-</div>
