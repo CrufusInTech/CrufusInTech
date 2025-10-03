@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=600&lines=Hello!;Call+me+Crufus;Chigozirim+Rufus">
 </p>
 
-
 <div align="center">
 <strong>Aspiring Full-Stack Engineer | Building projects | Always Learning 🚀</strong>
 </div>
@@ -58,17 +57,16 @@
 ---
 
 ## 🚧 Currently Working On
-
-<p align="center">
+<div align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=Deblug;My+Blog+Site">
 </p>
 
-<div align="center">
 **Highlights:**  
 - **Deblug** – Ongoing improvements and debugging  
 - **My Blog Site** – Working on features and responsiveness  
 
-**Next Goal:** Full-stack project using React + Supabase  
+**Next Goal:** Full-stack project using React + Supabase
 </div>
 
 ---
