@@ -70,9 +70,9 @@
 
 ---
 
-## ⏰ My Coding Routine
+## ⏰ My Coding Mantra
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&vCenter=true&width=500&lines=Discipline+is+hard;Consistent+discipline+is+harder;I+think+more+than+I+code">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&vCenter=true&width=500&lines=Discipline+is+hard;Consistent+discipline+is+harder;Set+your+heart+ablaze;Go+plus+ultra;I+am+a+code+Hokage">
 </div>
 
 ---
