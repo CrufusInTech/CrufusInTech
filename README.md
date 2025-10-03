@@ -1,10 +1,10 @@
+<div align="center">
+  
 <p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=600&lines=Hello!;Call+me+Crufus;Chigozirim+Rufus">
 </p>
 
-
-<div align="center">
-  
 <strong>Aspiring Full-Stack Engineer | Building projects | Always Learning 🚀</strong>
 
 </div>
