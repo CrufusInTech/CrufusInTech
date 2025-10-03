@@ -55,12 +55,12 @@
 ---
 
 ## 🚧 Currently Working On
-<div align="center" style="background-color:#FFF3CD; padding:15px; border-radius:10px;">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=DeBlug;My+Blog+Site">
 </div>
   
 **Highlights:** 
-<div align="center" style="background-color:#FFF3CD; padding:15px; border-radius:10px;">
+<div align="center">
 - **DeBlug** – Ongoing improvements and debugging  
 - **My Blog Site** – Working on features and responsiveness  
 
