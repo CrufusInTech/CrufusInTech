@@ -55,7 +55,6 @@
 ---
 
 ## 🚧 Currently Working On
-<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=DeBlug;My+Blog+Site">
 </div>
   
@@ -65,7 +64,6 @@
 - **My Blog Site** – Working on features and responsiveness  
 
 **Next Goal:** Full-stack project using React + Supabase  
-</div>
 
 ---
 
