@@ -57,8 +57,10 @@
 ## 🚧 Currently Working On
 <div align="center" style="background-color:#FFF3CD; padding:15px; border-radius:10px;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=DeBlug;My+Blog+Site">
-<br><br>
-**Highlights:**  
+</div>
+  
+**Highlights:** 
+<div align="center" style="background-color:#FFF3CD; padding:15px; border-radius:10px;">
 - **DeBlug** – Ongoing improvements and debugging  
 - **My Blog Site** – Working on features and responsiveness  
 
@@ -69,7 +71,7 @@
 
 ## 🌟 Let’s Connect
 <div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crufusintech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrufusInTech)
-[![X(formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/CrufusInTech)
+[![X(formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/__Crufus)
 </div>
