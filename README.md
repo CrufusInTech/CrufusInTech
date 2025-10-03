@@ -8,7 +8,7 @@
 
 ## 🌱 Currently Learning
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F77B&width=500&lines=React;API;Frontend+Best+Practices">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00F77B&width=500&lines=React;API;Frontend+Best+Practices">
 </div>
 
 ---
