@@ -1,7 +1,7 @@
 # Hello! 👋 Call me Crufus
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=600&lines=Chigozirim+Rufus;Full-Stack+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=600&lines=Chigozirim+Rufus;Full-Stack+Developer">
 </div>
 
 **Building projects | Always Learning 🚀**
