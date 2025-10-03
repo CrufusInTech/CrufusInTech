@@ -11,6 +11,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F77B&width=500&lines=React;API;Frontend+Best+Practices">
 </p>
 
+---
+
 ### 🛠 Tech Stack
 
 **Frontend:**  
