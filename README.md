@@ -9,14 +9,8 @@
 
 ---
 
-## 🌱 Currently Learning
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F77B&width=500&lines=React;API;Frontend+Best+Practices">
-</div>
+## 🛠 Tech Stack
 
----
-
-### 🛠 Tech Stack
 <div align="center">
 
 **Frontend:**<br>
@@ -41,7 +35,30 @@
 
 ---
 
+## 🚧 Currently Working On
+
+<div align="center">
+**Current Focus:**
+- **Deblug** – Ongoing improvements and debugging.
+- **My Blog Site** – Working on features and responsiveness.
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=Next+Goal%3A+Full-stack+project+using+React+%2B+Supabase">
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F77B&width=500&lines=API+Design;State+Management+in+React;Frontend+Best+Practices">
+</div>
+
+---
+
 ## 📊 GitHub Stats
+
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=CrufusInTech&show_icons=true&theme=radical" />
 <img height="150px" src="https://streak-stats.demolab.com?user=CrufusInTech&theme=radical&hide_border=true" />
@@ -57,27 +74,9 @@
 
 ---
 
-## 🚧 Currently Working On
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=Deblug;My+Blog+Site">
-</p>
-
-<div align="center">
-**Highlights:**  
-- **Deblug** – Ongoing improvements and debugging  
-- **My Blog Site** – Working on features and responsiveness  
-
-**Next Goal:** Full-stack project using React + Supabase  
-</div>
-
----
-
 ## 🌟 Let’s Connect
 <div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
-<br>
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrufusInTech)
-<br>
 [![X(formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/__Crufus)
 </div>
