@@ -38,9 +38,11 @@
 ## 🚧 Currently Working On
 
 <div align="center">
+  
 **Current Focus:**
 - **Deblug** – Ongoing improvements and debugging.
 - **My Blog Site** – Working on features and responsiveness.
+  
 </div>
 
 <p align="center">
@@ -77,7 +79,7 @@
 ## 🌟 Let’s Connect
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crufusintech)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrufusInTech)
-[![)](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/__Crufus)
+[![)](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/CrufusInTech)
 </div>
