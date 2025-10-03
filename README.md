@@ -39,22 +39,27 @@
 ---
 
 ## ⏰ My Coding Routine
-![Coding Time](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&vCenter=true&width=500&lines=I+code+daily+at+5AM;Consistency+is+my+superpower;Learning+never+stops!)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&vCenter=true&width=500&lines=Discipline+is+hard;Consistent+discipline+is+harder;I+think+more+than+I+code">
+</p>
 
 ---
 
 ## 🚧 Currently Working On
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=My+Portfolio+Revamp;Perfume+E-commerce+Frontend;Learning+React+Components;Building+Full-Stack+Projects)
-</div>
 
-- **Portfolio Site Revamp** – Making it fully responsive & adding interactive elements  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=Portfolio+Revamp;Perfume+E-commerce+Frontend;Learning+React+Components;Building+Full-Stack+Projects">
+</p>
+
+**Highlights:**  
+- **Portfolio Site Revamp** – Making it fully responsive & interactive  
 - **Perfume E-commerce Frontend** – Practicing UI/UX and dynamic product display  
 - **Next Goal:** Full-stack project using React + Supabase  
 
----
 
 ## 🌟 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CrufusInTech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crufusintech)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrufusInTech)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__Crufus)
+[![X(formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/CrufusInTech)
+
