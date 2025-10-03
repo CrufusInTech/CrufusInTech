@@ -8,7 +8,7 @@
 
 ## 🌱 Currently Learning
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00F77B&width=500&lines=React;API;Frontend+Best+Practices">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F77B&width=500&lines=React;API;Frontend+Best+Practices">
 </div>
 
 ---
@@ -54,16 +54,14 @@
 
 ---
 
-## 🚧 Currently Working On
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=DeBlug;My+Blog+Site">
-</div>
-  
-**Highlights:** 
 <div align="center">
-- **DeBlug** – Ongoing improvements and debugging  
-- **My Blog Site** – Working on features and responsiveness  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=My+Portfolio+Revamp;Perfume+E-commerce+Frontend;Learning+React+Components;Building+Full-Stack+Projects)
+</div>
 
-**Next Goal:** Full-stack project using React + Supabase  
+- **Portfolio Site Revamp** – Making it fully responsive & adding interactive elements  
+- **Perfume E-commerce Frontend** – Practicing UI/UX and dynamic product display  
+- **Next Goal:** Full-stack project using React + Supabase  
+
 
 ---
 
