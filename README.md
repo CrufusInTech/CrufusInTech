@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&width=600&lines=Hello!;Call+me+Crufus;Chigozirim+Rufus">
 </p>
 
+
 <div align="center">
 <strong>Aspiring Full-Stack Engineer | Building projects | Always Learning 🚀</strong>
 </div>
@@ -57,16 +58,17 @@
 ---
 
 ## 🚧 Currently Working On
-<div align="center">
-<p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFB400&width=500&lines=Deblug;My+Blog+Site">
 </p>
 
+<div align="center">
 **Highlights:**  
 - **Deblug** – Ongoing improvements and debugging  
 - **My Blog Site** – Working on features and responsiveness  
 
-**Next Goal:** Full-stack project using React + Supabase
+**Next Goal:** Full-stack project using React + Supabase  
 </div>
 
 ---
@@ -74,6 +76,8 @@
 ## 🌟 Let’s Connect
 <div align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+<br>
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrufusInTech)
+<br>
 [![X(formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/__Crufus)
 </div>
